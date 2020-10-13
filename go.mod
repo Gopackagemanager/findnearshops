@@ -1,3 +1,3 @@
-module github.com/gopackagemanager/findnearshop
+module github.com/gopackagemanager/findnearshops
 
 go 1.15
